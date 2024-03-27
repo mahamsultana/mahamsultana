@@ -1,5 +1,5 @@
-<p align="">Hi 👋, I'm Maham</p>
-<p align="">Software Engineer</p>
+<p align=""><b>Hi 👋, I'm Maham</b></p>
+<p align=""><b>Software Engineer</b></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahamsultana&label=Profile%20views&color=0e75b6&style=flat" alt="mahamsultana" /> </p>
 
 
