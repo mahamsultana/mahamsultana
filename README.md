@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Maham</h1>
-<h3 align="center">Software Engineer</h3>
+<h1 align="">Hi 👋, I'm Maham</h1>
+<h3 align="">Software Engineer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahamsultana&label=Profile%20views&color=0e75b6&style=flat" alt="mahamsultana" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahamsultana" alt="mahamsultana" /></a> </p>
@@ -20,4 +20,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahamsultana&show_icons=true&locale=en" alt="mahamsultana" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahamsultana&" alt="mahamsultana" /></p>
