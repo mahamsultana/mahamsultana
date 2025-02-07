@@ -1,5 +1,5 @@
 # Hi 👋, I'm Maham Sultana
-### **Full Stack Developer | Software Engineer @ TheBotss Company**
+### **Software Engineer @ TheBotss Company**
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=mahamsultana&label=Profile%20views&color=0e75b6&style=flat" alt="mahamsultana" /> 
