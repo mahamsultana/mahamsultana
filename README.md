@@ -34,7 +34,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-main-axeloyy.vercel.app/api/top-langs/?username=mahamsultana&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats-git-main-axeloyy.vercel.app/api?username=mahamsultana&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
 </p>
 
 
