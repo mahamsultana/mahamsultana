@@ -20,8 +20,9 @@
 
 ### 🛠️ Languages and Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,next,nodejs,nestjs,express,mongodb,mysql,python,git,docker,cs,cpp&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,next,nodejs,nestjs,express,mongodb,mysql,python,git,docker,cs,cpp,aws,firebase,postman,vscode,prisma,vercel,netlify&theme=dark" />
 </p>
+
 
 
 ---
