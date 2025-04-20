@@ -106,7 +106,7 @@
 - Build innovative solutions that solve real-world problems.
 
 <p align="center"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahamsultana&theme=dark" alt="mahamsultana" />
+<img src="https://streak-stats.demolab.com?user=mahamsultana&theme=dark" alt="mahamsultana" />
 </p>
 
 
