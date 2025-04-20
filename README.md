@@ -35,8 +35,9 @@
 </p>
 
 <p align="center">
-  <img src="https://git-stats-api-phi.vercel.app/api?username=mahamsultana&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats (No Cache)" />
+  <img src="https://github-contributions-api.deno.dev/mahamsultana.svg" alt="GitHub Contribution Chart" />
 </p>
+
 
 
 
