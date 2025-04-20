@@ -35,7 +35,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-main-axeloyy.vercel.app/api?username=mahamsultana&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mahamsultana&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 
