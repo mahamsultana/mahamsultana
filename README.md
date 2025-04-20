@@ -35,9 +35,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahamsultana&theme=tokyonight" />
-
+  <img src="https://git-stats-api-phi.vercel.app/api?username=mahamsultana&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats (No Cache)" />
 </p>
+
 
 
 
