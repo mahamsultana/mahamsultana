@@ -23,9 +23,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,next,nodejs,nestjs,express,mongodb,mysql,python,git,docker,cs,cpp,aws,firebase,postman,vscode,prisma,vercel,netlify&theme=dark" />
 </p>
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mahamsultana&show_icons=true&locale=en&count_private=true&cache_seconds=1" alt="mahamsultana" />
-</p>
 
 
 
