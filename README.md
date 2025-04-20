@@ -1,7 +1,12 @@
-# Hi 👋, I'm Maham Sultana
-### **Software Engineer @ TheBotss Company**
+<!-- Typing intro -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=F7F7F7&center=true&width=440&lines=Hi+%F0%9F%91%8B%2C+I'm+Maham+Sultana;Software+Engineer+@+TheBotss+Company;Web+Developer+%7C+Cloud+Learner+%7C+Open+Source+Lover" alt="Typing Animation" />
+</p>
 
-<p align="left"> 
+<h1 align="center">Hi 👋, I'm Maham Sultana</h1>
+<h3 align="center">Software Engineer @ <a href="https://thebotss.com" target="_blank">TheBotss Company</a></h3>
+
+<p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=mahamsultana&label=Profile%20views&color=0e75b6&style=flat" alt="mahamsultana" /> 
 </p>
 
@@ -16,97 +21,77 @@
 ---
 
 ### 🛠️ Languages and Tools
-<p align="left">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" style="filter: invert(100%);"/> 
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,nodejs,express,mongodb,mysql,python,git&theme=dark" />
 </p>
 
 ---
 
 ### 📊 GitHub Stats
+
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahamsultana&show_icons=true&locale=en&layout=compact" alt="mahamsultana" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mahamsultana&show_icons=true&locale=en" alt="mahamsultana" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahamsultana&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Langs" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mahamsultana&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 ---
 
 ### 🏆 GitHub Trophies
+
 <p align="center"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=mahamsultana" alt="mahamsultana" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mahamsultana&theme=tokyonight&no-bg=true&margin-w=15" alt="GitHub Trophies" />
 </p>
 
 ---
 
 ### 🤝 Connect with Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/mahamsultana/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Maham Sultana LinkedIn" height="30" width="40" />
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mahamsultana/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:mahamsultana162@gmail.com" target="blank">
-    <img align="center" src="https://img.icons8.com/color/48/000000/gmail.png" alt="Maham Sultana Email" height="40" width="40" />
+  <a href="mailto:mahamsultana162@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
 ### 💼 Professional Experience
+
 #### **Software Engineer** @ [TheBotss Company](https://thebotss.com)
-- Developing and maintaining scalable web applications.
-- Collaborating with cross-functional teams to deliver high-quality software solutions.
-- Implementing RESTful APIs and integrating third-party services.
-- Optimizing application performance and ensuring code quality.
+- 🧠 Developing and maintaining scalable web applications.
+- 🤝 Collaborating with cross-functional teams to deliver high-quality software solutions.
+- 🌐 Implementing RESTful APIs and integrating third-party services.
+- ⚡ Optimizing application performance and ensuring code quality.
 
 ---
 
 ### 📚 Education
-- **Bachelor of Science in Computer Science**  
-  Sir Syed University Of Engineering & Technology  
-  Graduated: 2025
+
+- 🎓 **Bachelor of Science in Computer Science**  
+  🏫 Sir Syed University Of Engineering & Technology  
+  📅 Graduating: 2025
 
 ---
 
 ### 🎯 Goals
-- Contribute to open-source projects.
-- Master cloud technologies like AWS and Docker.
-- Build innovative solutions that solve real-world problems.
+
+- 🚀 Contribute to open-source projects.
+- ☁️ Master cloud technologies like AWS and Docker.
+- 💡 Build innovative solutions that solve real-world problems.
+
+---
+
+### 🔥 GitHub Streak
 
 <p align="center"> 
-<img src="https://streak-stats.demolab.com?user=mahamsultana&theme=dark" alt="mahamsultana" />
+  <img src="https://streak-stats.demolab.com?user=mahamsultana&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
 
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b5876,100:4e4376&height=100&section=footer"/>
+</p>
