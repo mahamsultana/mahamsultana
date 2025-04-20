@@ -1,10 +1,8 @@
 <!-- Typing intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=F7F7F7&center=true&width=440&lines=Hi+%F0%9F%91%8B%2C+I'm+Maham+Sultana;Software+Engineer+@+TheBotss+Company;Web+Developer+%7C+Cloud+Learner+%7C+Open+Source+Lover" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Maham+Sultana;Software+Engineer+%40+TheBotss+Company;Web+Developer+%7C+Cloud+Learner+%7C+Open+Source+Lover" alt="Typing Animation" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Maham Sultana</h1>
-<h3 align="center">Software Engineer @ <a href="https://thebotss.com" target="_blank">TheBotss Company</a></h3>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=mahamsultana&label=Profile%20views&color=0e75b6&style=flat" alt="mahamsultana" /> 
