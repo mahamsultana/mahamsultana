@@ -39,11 +39,7 @@
 
 ---
 
-### 🏆 GitHub Trophies
 
-<p align="center"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=mahamsultana&theme=tokyonight&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-</p>
 
 ---
 
