@@ -92,8 +92,8 @@
 
 ### 🔥 GitHub Streak
 
-<p align="center"> 
-  <img src="https://streak-stats.demolab.com?user=mahamsultana&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mahamsultana&random=12345" alt="GitHub Streak" />
 </p>
 
 <p align="center">
