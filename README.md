@@ -93,7 +93,7 @@
 ### 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mahamsultana&random=12345" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahamsultana&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
