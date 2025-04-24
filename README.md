@@ -28,7 +28,7 @@
 
 ---
 
-### 📊 GitHub Statss
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahamsultana&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Langs" />
