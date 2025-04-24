@@ -93,8 +93,9 @@
 ### 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=mahamsultana&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=4c1d95&ring=3b82f6" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=mahamsultana&hide_border=true&theme=dark&stroke=9333ea&ring=3b82f6" />
 </p>
+
 
 
 
