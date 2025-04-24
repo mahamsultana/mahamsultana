@@ -93,8 +93,9 @@
 ### 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahamsultana&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=mahamsultana&theme=tokyonight&hide_border=true" />
 </p>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b5876,100:4e4376&height=100&section=footer"/>
