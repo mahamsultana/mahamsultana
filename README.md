@@ -11,7 +11,7 @@
 ---
 
 ### 🚀 About Me
-- 🌱 I’m currently learning **Advanced Web Development and Cloud Technologie**.
+- 🌱 I’m currently learning **Advanced Web Development and Cloud Technologies**.
 - 💻 Passionate about **building scalable and user-friendly web applications**.
 - 🔭 Working as a **Software Engineer @ [TheBotss](https://thebotss.com)**.
 - 📫 How to reach me: **mahamsultana162@gmail.com**
