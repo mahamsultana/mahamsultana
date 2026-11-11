@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Maham Sultana, AI Software Engineer. I build AI agents, voice agents, RAG systems and full-stack products that run in production.">
+  <defs>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.2" fill="rgba(0,0,0,0.08)"/>
+    </pattern>
+    <radialGradient id="glow" cx="50%" cy="0%" r="70%">
+      <stop offset="0%" stop-color="#ff8a3d" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#ff8a3d" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="fade" x1="0" x2="1">
+      <stop offset="0%" stop-color="#0a0a0c"/>
+      <stop offset="100%" stop-color="#6b6b73"/>
+    </linearGradient>
+    <style>
+      text { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif; text-anchor: middle; }
+      .eyebrow { font-size: 15px; font-weight: 700; letter-spacing: 5px; fill: #1a1a1d; }
+      .name { font-size: 92px; font-weight: 900; letter-spacing: -3px; }
+      .tag { font-size: 20px; font-weight: 500; fill: #5f5f67; }
+      .pill { font-size: 15px; font-weight: 700; }
+    </style>
+  </defs>
+  <rect width="1200" height="320" rx="24" fill="#fafafa"/>
+  <rect width="1200" height="320" rx="24" fill="url(#dots)"/>
+  <rect width="1200" height="320" rx="24" fill="url(#glow)"/>
+  <rect x="0.5" y="0.5" width="1199" height="319" rx="23.5" fill="none" stroke="rgba(0,0,0,0.08)"/>
+  <text x="600" y="72" class="eyebrow">AI SOFTWARE ENGINEER</text>
+  <text x="600" y="172" class="name" fill="url(#fade)">MAHAM SULTANA</text>
+  <text x="600" y="218" class="tag">I build software that runs in production</text>
+    <g>
+      <rect x="279" y="240" width="120" height="40" rx="20" fill="none" stroke="rgba(0,0,0,0.18)"/>
+      <text x="339" y="266" class="pill" fill="#3a3a40">AI agents</text>
+      <g opacity="1">
+        <animate attributeName="opacity" values="1;1;1;0;0" keyTimes="0;0.02;0.23;0.25;1" dur="10s" repeatCount="indefinite"/>
+        <rect x="279" y="240" width="120" height="40" rx="20" fill="#0a0a0c"/>
+        <text x="339" y="266" class="pill" fill="#ffffff">AI agents</text>
+      </g>
+    </g>
+    <g>
+      <rect x="413" y="240" width="142" height="40" rx="20" fill="none" stroke="rgba(0,0,0,0.18)"/>
+      <text x="484" y="266" class="pill" fill="#3a3a40">voice agents</text>
+      <g opacity="0">
+        <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.25;0.27;0.48;0.5;1" dur="10s" repeatCount="indefinite"/>
+        <rect x="413" y="240" width="142" height="40" rx="20" fill="#0a0a0c"/>
+        <text x="484" y="266" class="pill" fill="#ffffff">voice agents</text>
+      </g>
+    </g>
+    <g>
+      <rect x="569" y="240" width="142" height="40" rx="20" fill="none" stroke="rgba(0,0,0,0.18)"/>
+      <text x="640" y="266" class="pill" fill="#3a3a40">RAG systems</text>
+      <g opacity="0">
+        <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.5;0.52;0.73;0.75;1" dur="10s" repeatCount="indefinite"/>
+        <rect x="569" y="240" width="142" height="40" rx="20" fill="#0a0a0c"/>
+        <text x="640" y="266" class="pill" fill="#ffffff">RAG systems</text>
+      </g>
+    </g>
+    <g>
+      <rect x="725" y="240" width="196" height="40" rx="20" fill="none" stroke="rgba(0,0,0,0.18)"/>
+      <text x="823" y="266" class="pill" fill="#3a3a40">full-stack products</text>
+      <g opacity="0">
+        <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.75;0.77;0.98;1;1" dur="10s" repeatCount="indefinite"/>
+        <rect x="725" y="240" width="196" height="40" rx="20" fill="#0a0a0c"/>
+        <text x="823" y="266" class="pill" fill="#ffffff">full-stack products</text>
+      </g>
+    </g>
+</svg>

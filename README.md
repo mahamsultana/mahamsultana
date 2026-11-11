@@ -1,102 +1,87 @@
-<!-- Typing intro -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Maham+Sultana;Software+Engineer+%40+TheBotss+Company;Web+Developer+%7C+Cloud+Learner+%7C+Open+Source+Lover" alt="Typing Animation" />
-</p>
-
-
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=mahamsultana&label=Profile%20views&color=0e75b6&style=flat" alt="mahamsultana" /> 
-</p>
-
----
-
-### 🚀 About Me
-- 🌱 I’m currently learning **Advanced Web Development and Cloud Technologies**.
-- 💻 Passionate about **building scalable and user-friendly web applications**.
-- 🔭 Working as a **Software Engineer @ [TheBotss](https://thebotss.com)**.
-- 📫 How to reach me: **mahamsultana162@gmail.com**
-
----
-
-### 🛠️ Languages and Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,next,nodejs,nestjs,express,mongodb,mysql,python,git,docker,cs,cpp,aws,firebase,postman,vscode,prisma,vercel,netlify&theme=dark" />
-</p>
-
-
-
-
----
-
-### 📊 GitHub Stats
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
+  <img src="assets/header-dark.svg" alt="Maham Sultana, AI Software Engineer. I build AI agents, voice agents, RAG systems and full-stack products that run in production." width="100%">
+</picture>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahamsultana&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <a href="https://mahamsultanaa.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/mahamsultana/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:mahamsultanaa@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
+
+## 👋 Hi, I'm Maham
+
+I'm an AI Software Engineer at **[The Botss](https://thebotss.com)**, where I ship AI products that real customers use every day: support agents that answer on WhatsApp and Instagram, voice agents you can phone, and RAG systems grounded in a company's own data.
+
+On the side I build open-source tools to understand how AI developer tools work from the inside.
+
+## ✨ Open source I'm building
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/mahamsultana/polycast">
+        <img src="https://raw.githubusercontent.com/mahamsultana/polycast/main/docs/demo.gif" alt="PolyCast demo" width="100%">
+      </a>
+      <h3><a href="https://github.com/mahamsultana/polycast">PolyCast</a></h3>
+      <p><b>Write a script. Get a low-poly 3D video.</b> A host and a sarcastic AI orb banter in a podcast studio, with generated voices, real lip-sync, word-cued camera cuts and captions, rendered with three.js in headless Chrome. Works as a skill for Claude Code, Codex and other agents.</p>
+      <img src="https://img.shields.io/github/stars/mahamsultana/polycast?style=flat-square&color=ff8a3d" alt="stars">
+      <img src="https://img.shields.io/badge/three.js-black?style=flat-square&logo=three.js" alt="three.js">
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js">
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/mahamsultana/mahi-code">
+        <img src="https://raw.githubusercontent.com/mahamsultana/mahi-code/main/docs/images/hero.png" alt="Maham Code" width="100%">
+      </a>
+      <h3><a href="https://github.com/mahamsultana/mahi-code">Maham Code</a></h3>
+      <p><b>An AI coding agent, built from scratch.</b> Describe a change and it explores your project, reads what it needs, and writes and edits code across the codebase. One Python core runs in the terminal, as a desktop app and inside VS Code, on any OpenAI-compatible model, including local ones.</p>
+      <img src="https://img.shields.io/github/stars/mahamsultana/mahi-code?style=flat-square&color=ff8a3d" alt="stars">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+      <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code">
+    </td>
+  </tr>
+</table>
+
+## 🚀 Shipped in production
+
+| Product | What I built | Impact |
+|---|---|---|
+| **[Commify AI](https://commify.ai/)** | AI support for Shopify stores across WhatsApp, Instagram, Messenger and a storefront widget, grounded in each store's data with RAG | Automates **70%+** of customer queries, cut return-to-origin from **31% to 12%** |
+| **[Arthur](https://arthur.amazon1.org/)** | Multilingual voice and chat agent (English, German, Russian) you can call by phone, with pgvector retrieval and a NestJS backend | Serves about **3,000 users** |
+| **Accident Assist AI** | AI legal-intake app for US accident victims: an Agents SDK assistant builds case files through tool calling and routes leads to lawyers | Live on the **App Store** and **Google Play** |
+
+## 🛠️ Tech I work with
+
+<p>
+  <b>AI</b>&nbsp;
+  <img src="https://img.shields.io/badge/OpenAI%20Agents%20SDK-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI Agents SDK">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain">
+  <img src="https://img.shields.io/badge/RAG-ff8a3d?style=flat-square" alt="RAG">
+  <img src="https://img.shields.io/badge/pgvector-336791?style=flat-square&logo=postgresql&logoColor=white" alt="pgvector">
+  <img src="https://img.shields.io/badge/Tool%20Calling-555555?style=flat-square" alt="Tool calling">
+  <img src="https://img.shields.io/badge/Twilio%20Voice-F22F46?style=flat-square&logo=twilio&logoColor=white" alt="Twilio">
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,python,nextjs,react,tailwind,nodejs,nestjs,express,postgres,mongodb,mysql,redis,supabase,docker,vercel,git,postman&perline=9" alt="Tech stack">
+</p>
+
+## 💼 Experience
+
+- **Software Engineer, [The Botss](https://thebotss.com)** · Jan 2025 to now · AI agents, RAG, voice and full-stack products
+- **Software Engineer, Zenkoders** · Aug to Dec 2024 · web apps, a reusable component library, real-time WebSocket chat
+- **BS Computer Science, Sir Syed University (SSUET)** · graduated 2025
+
+## 📈 Activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=mahamsultana&theme=dark&hide_border=true&background=0a0a0c&ring=ff8a3d&fire=ff8a3d&currStreakLabel=ff8a3d">
+    <img src="https://streak-stats.demolab.com/?user=mahamsultana&hide_border=true&ring=ff8a3d&fire=ff8a3d&currStreakLabel=ff8a3d" alt="GitHub streak">
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahamsultana&theme=tokyonight" />
-</p>
-
-
-
-
-
-
-
-
----
-
-
-
----
-
-### 🤝 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/mahamsultana/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:mahamsultana162@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-
-### 💼 Professional Experience
-
-#### **Software Engineer** @ [TheBotss Company](https://thebotss.com)
-- 🧠 Developing and maintaining scalable web applications.
-- 🤝 Collaborating with cross-functional teams to deliver high-quality software solutions.
-- 🌐 Implementing RESTful APIs and integrating third-party services.
-- ⚡ Optimizing application performance and ensuring code quality.
-
----
-
-### 📚 Education
-
-- 🎓 **Bachelor of Science in Computer Science**  
-  🏫 Sir Syed University Of Engineering & Technology  
-  📅 Graduating: 2025
-
----
-
-### 🎯 Goals
-
-- 🚀 Contribute to open-source projects.
-- ☁️ Master cloud technologies like AWS and Docker.
-- 💡 Build innovative solutions that solve real-world problems.
-
----
-
-### 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=mahamsultana&theme=dark&hide_border=true" />
-</p>
-
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b5876,100:4e4376&height=100&section=footer"/>
+  <sub>Want to build something with AI? <a href="mailto:mahamsultanaa@gmail.com">Let's talk</a>.</sub>
 </p>
